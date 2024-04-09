@@ -6,7 +6,7 @@ This project contains 2 objects: oRenderer and oPoint
   
   - The create event creates a struct holding 4 separate points, mark as P0 through P3. These are all instances of oPoint.
 
-  - The curve itself is drawn in the DrawGUI event.
+  - The curve itself is drawn in the DrawGUI event:
     - First, red lines are drawn between the points to showcase borders.
 
     - After that, 3 main variables are set up:
